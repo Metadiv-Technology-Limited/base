@@ -4,8 +4,8 @@ go 1.21.5
 
 require (
 	github.com/Metadiv-Technology-Limited/objmap v1.0.0
-	github.com/Metadiv-Technology-Limited/sql v1.0.1
-	gorm.io/gorm v1.25.5
+	github.com/Metadiv-Technology-Limited/sql v1.0.0
+	gorm.io/gorm v1.25.7
 )
 
 require (
